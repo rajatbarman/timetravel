@@ -5,7 +5,7 @@ This repo uses Archive.org apis to see how webpages looked like across time.
 [Figma Designs](https://www.figma.com/file/T1C4gLq24BTXqwoQZAMRQz/Time-Travel?node-id=0%3A1)
 
 Steps
-- Install node.js lts installed (Do a node -v, 16.13.x - 16.7.x should be fine)
+- Install node.js lts (Do a node -v, 16.13.x - 16.7.x should be fine)
 - Intall git
 - Intall Watchman, only for Mac or Linux (brew install watchman) 
 - Run `npx expo -h`
