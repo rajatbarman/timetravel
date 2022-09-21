@@ -9,7 +9,6 @@ Steps
 - Intall git
 - Intall Watchman, only for Mac or Linux (brew install watchman) 
 - Run `npx expo -h`
-- Run `npx expo whoami`
 - Install Expo Go App (in your mobile phone)
 - Run `npx create-expo-app expo-timetravel`
 - Setup development environment - enable linting, prettier, module resolvers etc. Run
